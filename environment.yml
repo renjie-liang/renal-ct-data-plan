@@ -1,0 +1,29 @@
+name: renal-ct
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - pytorch
+  - torchvision
+  - transformers
+  - pydicom
+  - SimpleITK
+  - nibabel
+  - opencv
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - tqdm
+  - nltk
+  - sentence-transformers
+  - peft
+  - accelerate
+  - bitsandbytes
+  - pip
+  - pip:
+    - pycocotools
+    - pycocoevalcap
+    - rouge
+    - wandb

@@ -1,5 +1,3 @@
-# Ignore environment files
-environment.yml
 
 # Ignore editor files
 *.swp

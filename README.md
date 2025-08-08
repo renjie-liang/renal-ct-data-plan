@@ -23,7 +23,7 @@ While the raw data and processing scripts are not publicly available, the reprod
 
 ## Environment Configuration
 
-The included `environment.yml` file specifies the computational environment used in this project.
+The included `environment.yml` file specifies the core computational environment used in this project. It includes essential packages for medical image processing, deep learning, and natural language processing.
 
 ```bash
 # Clone the repository
